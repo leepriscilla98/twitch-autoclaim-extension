@@ -1,0 +1,1 @@
+# twitch-autoclaim-extension
